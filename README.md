@@ -1,0 +1,2 @@
+# open-logo
+Logo redesign
