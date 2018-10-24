@@ -1,6 +1,6 @@
 # open-logo
 Logo redesign
 
-UbuntuBudgie
-Ubuntu Budgie
+UbuntuBudgie,
+Ubuntu Budgie,
 uBudgie
